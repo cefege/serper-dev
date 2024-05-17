@@ -1,0 +1,28 @@
+# General
+*.py[cod]
+__pycache__/
+*.so
+.DS_Store
+
+# Streamlit specific
+**/.streamlit/config.toml
+**/.streamlit/credentials.toml
+**/.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
