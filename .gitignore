@@ -27,4 +27,4 @@ ENV/
 # VSCode
 .vscode/
 
-*.db
+cache.db
